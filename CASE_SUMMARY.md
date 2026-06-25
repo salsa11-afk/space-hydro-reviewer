@@ -11,7 +11,7 @@ If the computer code running these watering systems has a single bug like leavin
 
 ---
 
-## 🛠️ The Solution: What Are We Making?
+## The Solution: What Are We Making?
 We have built the **Space Hydro Reviewer** an advanced, multi agent AI engine inside Google's brand new Antigravity IDE. 
 
 Instead of a human engineer spending weeks reviewing lines of code, our system acts as an **automated AI Safety Board**. When a developer writes a new piece of hardware control code, they feed it into our system. Our script instantly spawns three specialized AI "sub agents" that analyze the code simultaneously like a team of NASA experts:
